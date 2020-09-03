@@ -8,7 +8,7 @@ Choose whether you want to perform stemming or not.
 
 To find the most relevant articles for you:
 
-Insert a single query or choose a query file that you want to seart.
+Insert a single query or choose a query file that you want to search.
 Choose whether you want to perform stemming on your query (choosing yes is recommended if your dictionary was built with stemming)
 Choose whether you want to show entities that included in the results (such as cities, countries, names, etc.)
 Choose whether to save the results or not.
