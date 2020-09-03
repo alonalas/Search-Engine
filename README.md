@@ -1,7 +1,7 @@
 # Search-Engine
 
 The document retrieval process is done as follows:
-#Perform a parsing and normalization operation on the documents in the document repository.
+-Perform a parsing and normalization operation on the documents in the document repository.
 -Create posting files that contain the words after performing the normalization operations.
 -"Stop words" filtering.
 -Each posting file contains words sorted in alphabetical order for quick word retrieval.
